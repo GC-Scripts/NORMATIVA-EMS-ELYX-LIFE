@@ -1,4 +1,4 @@
-Comportamiento en Servicio
+# Comportamiento en Servicio
 Usar siempre la vestimenta correspondiente a tu rango.
 
 Informar ingreso/salida de servicio por radio (frecuencia 131).
@@ -30,10 +30,11 @@ Deben estar bien redactados e incluir vestimenta, hecho y lugar.
 
 Ejemplo: “Soy Antonio, guardia del gimnasio. Una persona con ropa negra está inconsciente en el suelo con moretones en la cara. ¡Necesitamos ayuda urgente!”
 
-Policía Nacional/BPI → Prioridad absoluta en llamados.
+LSPD / Sheriff → Prioridad absoluta en llamados.
 
 En conflictos armados, se debe preguntar seguridad antes de ingresar:
 
-/SAMU La zona de la postal XXXX, ¿es segura para ingreso de SAMU?
+/EMS La zona de la postal XXXX, ¿es segura para ingreso de EMS?
 
-Queda prohibido atender llamados desde la cárcel salvo solicitud de Policia Nacional, BPI o Administración.
+Queda prohibido atender llamados desde la cárcel salvo solicitud de LSPD, Sheriff o Administración.
+
