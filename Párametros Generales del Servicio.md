@@ -1,4 +1,4 @@
-#Parámetros Generales del Servicio
+# Parámetros Generales del Servicio
 
 El personal de EMS no puede ser secuestrado ni robado durante servicio. En caso de que ocurra, el miembro debe reportar inmediatamente con clip o evidencia.
 
@@ -40,4 +40,5 @@ Aclaración: Un insulto o comentario aislado no será motivo suficiente para neg
 LSPD / Sheriff → Prioridad si ambos bandos se encuentran abatidos.
 
 Bando Ganador → Siempre y cuando la zona se encuentre asegurada.
+
 
