@@ -1,3 +1,5 @@
+# Requisitos de Postulación
+
 ⤷ Requisitos 
 Para ingresar a Emergency Medical Service (EMS) es necesario cumplir con los siguientes requisitos y compromisos:
 
@@ -30,3 +32,4 @@ Se evaluarán conocimientos básicos de rol, normativa y criterios médicos.
 En caso de aprobar, el postulante será citado a una entrevista oral con la jefatura de la facción. 
 
 Los resultados serán publicados en el canal correspondiente del Discord; NO se avisará por mensaje directo (DM). 
+
